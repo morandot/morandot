@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="night.svg" width="480" />
+  <img src="night.svg" />
 </p>
