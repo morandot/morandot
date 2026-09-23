@@ -1,118 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 160" shape-rendering="crispEdges">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" shape-rendering="crispEdges" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmNmY3OGNkOC00ZWU5LTRjZTYtYmQ3OS1mNzM3YTE0OWUxNDUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaFUC+e4vG3E7aAuo0TmIA0cAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjMmM5ZWFiMy02OTNhLTQ1OGYtOGU2ZC1kYWE0NTE5M2UzN2JscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoGyc+EyvWybNk+y4o/Ok9OAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggKYiZMK3iA2eBRc6jt1Nq1qR/SptsmNad+8tyQAG0WFmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPfWQ8LF1q+wo48OM4GU78wAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAkvtL8azVMCdaRL+C/MxrpfBkiWYhmO5V9WjaHV2fTbWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiaZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmY2Zjc4Y2Q4LTRlZTktNGNlNi1iZDc5LWY3MzdhMTQ5ZTE0NS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjVjNjdjM2EyLTE5ZWUtNGZlMi1hYTNhLTUzMTE1YzRkMDA4NHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCApiJkwreIDZ4FFzqO3U2rWpH9Km2yY1p37y3JAAbRYWaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggM8xK0Ayt2V3VREyCFucYXTAx+xZ9I34kuzUbUfaJLOmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggg2Msc9ipne/SXlNg+dqoHTL5j3ny53Cn9sbDZfpLVFh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKcKin7Y8CQCS18IxJ9mqxE7ypLJrxsgd8hdpFFmOU7gGw7xIuZhIBR1dl/7sTiJnw93zNUUBAWNNQg4JUbwxAQ=</c2pa:manifest></metadata>
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0.0%" stop-color="rgb(4,5,22)"/>
-      <stop offset="6.7%" stop-color="rgb(4,5,22)"/>
-      <stop offset="6.7%" stop-color="rgb(5,6,27)"/>
-      <stop offset="13.3%" stop-color="rgb(5,6,27)"/>
-      <stop offset="13.3%" stop-color="rgb(6,7,32)"/>
-      <stop offset="20.0%" stop-color="rgb(6,7,32)"/>
-      <stop offset="20.0%" stop-color="rgb(7,9,38)"/>
-      <stop offset="26.7%" stop-color="rgb(7,9,38)"/>
-      <stop offset="26.7%" stop-color="rgb(8,10,43)"/>
-      <stop offset="33.3%" stop-color="rgb(8,10,43)"/>
-      <stop offset="33.3%" stop-color="rgb(10,12,48)"/>
-      <stop offset="40.0%" stop-color="rgb(10,12,48)"/>
-      <stop offset="40.0%" stop-color="rgb(11,13,54)"/>
-      <stop offset="46.7%" stop-color="rgb(11,13,54)"/>
-      <stop offset="46.7%" stop-color="rgb(12,15,59)"/>
-      <stop offset="53.3%" stop-color="rgb(12,15,59)"/>
-      <stop offset="53.3%" stop-color="rgb(13,16,64)"/>
-      <stop offset="60.0%" stop-color="rgb(13,16,64)"/>
-      <stop offset="60.0%" stop-color="rgb(14,18,70)"/>
-      <stop offset="66.7%" stop-color="rgb(14,18,70)"/>
-      <stop offset="66.7%" stop-color="rgb(16,19,75)"/>
-      <stop offset="73.3%" stop-color="rgb(16,19,75)"/>
-      <stop offset="73.3%" stop-color="rgb(17,21,80)"/>
-      <stop offset="80.0%" stop-color="rgb(17,21,80)"/>
-      <stop offset="80.0%" stop-color="rgb(18,22,86)"/>
-      <stop offset="86.7%" stop-color="rgb(18,22,86)"/>
-      <stop offset="86.7%" stop-color="rgb(19,24,91)"/>
-      <stop offset="93.3%" stop-color="rgb(19,24,91)"/>
-      <stop offset="93.3%" stop-color="rgb(20,25,96)"/>
-      <stop offset="100.0%" stop-color="rgb(20,25,96)"/>
+      <stop offset="0%"  stop-color="#05060f"/>
+      <stop offset="50%" stop-color="#0b0e2a"/>
+      <stop offset="100%" stop-color="#1b1440"/>
     </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="rgba(245,240,205,0.45)"/>
+      <stop offset="55%" stop-color="rgba(245,240,205,0.14)"/>
+      <stop offset="100%" stop-color="rgba(245,240,205,0)"/>
+    </radialGradient>
+    <radialGradient id="flowerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="rgba(255,255,255,0.28)"/>
+      <stop offset="70%" stop-color="rgba(255,255,255,0.08)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    </radialGradient>
   </defs>
-  <rect width="480" height="160" fill="url(#sky)"/>
+
+  <!-- sky -->
+  <rect width="800" height="200" fill="url(#sky)"/>
+
   <!-- stars -->
-  <rect x="220" y="0" height="10" fill="#f0d060"/>
-  <rect x="30" y="10" height="10" fill="#f0d060"/>
-  <rect x="150" y="10" height="10" fill="#f0d060"/>
-  <rect x="300" y="10" height="10" fill="#f0d060"/>
-  <rect x="400" y="10" height="10" fill="#fff0a0"/>
-  <rect x="410" y="10" height="10" fill="#f0d060"/>
-  <rect x="450" y="10" height="10" fill="#f0d060"/>
-  <rect x="350" y="20" height="10" fill="#f0d060"/>
-  <rect x="410" y="20" height="10" fill="#fff0a0"/>
-  <rect x="420" y="20" height="10" fill="#f0d060"/>
-  <rect x="100" y="30" height="10" fill="#f0d060"/>
-  <rect x="280" y="30" height="10" fill="#f0d060"/>
-  <rect x="420" y="30" width="20" height="10" fill="#f0d060"/>
-  <rect x="420" y="40" width="20" height="10" fill="#f0d060"/>
-  <rect x="180" y="50" height="10" fill="#f0d060"/>
-  <rect x="250" y="50" height="10" fill="#f0d060"/>
-  <rect x="410" y="50" height="10" fill="#f0d060"/>
-  <rect x="420" y="50" height="10" fill="#fff0a0"/>
-  <rect x="440" y="50" height="10" fill="#f0d060"/>
-  <rect x="80" y="60" height="10" fill="#f0d060"/>
-  <rect x="400" y="60" height="10" fill="#f0d060"/>
-  <rect x="410" y="60" height="10" fill="#fff0a0"/>
-  <rect x="130" y="80" height="10" fill="#f0d060"/>
-  <!-- dim stars -->
-  <rect x="120" y="0" height="10" fill="#404060"/>
-  <rect x="70" y="20" height="10" fill="#404060"/>
-  <rect x="200" y="20" height="10" fill="#404060"/>
-  <rect x="50" y="40" height="10" fill="#404060"/>
-  <rect x="330" y="40" height="10" fill="#404060"/>
-  <rect x="310" y="60" height="10" fill="#404060"/>
-  <rect x="470" y="60" height="10" fill="#404060"/>
-  <rect x="20" y="70" height="10" fill="#404060"/>
-  <rect x="260" y="70" height="10" fill="#404060"/>
-  <rect x="380" y="80" height="10" fill="#404060"/>
-  <rect x="160" y="90" height="10" fill="#404060"/>
-  <rect x="420" y="90" height="10" fill="#404060"/>
-  <!-- buildings -->
-  <rect x="370" y="90" width="40" height="10" fill="#080a18"/>
-  <rect x="50" y="100" width="30" height="10" fill="#080a18"/>
-  <rect x="370" y="100" width="40" height="10" fill="#080a18"/>
-  <rect x="50" y="110" width="30" height="10" fill="#080a18"/>
-  <rect x="330" y="110" width="30" height="10" fill="#080a18"/>
-  <rect x="370" y="110" width="40" height="10" fill="#080a18"/>
-  <rect x="460" y="110" width="20" height="10" fill="#080a18"/>
-  <rect x="0" y="120" width="40" height="10" fill="#080a18"/>
-  <rect x="50" y="120" width="30" height="10" fill="#080a18"/>
-  <rect x="330" y="120" width="30" height="10" fill="#080a18"/>
-  <rect x="370" y="120" width="40" height="10" fill="#080a18"/>
-  <rect x="420" y="120" width="30" height="10" fill="#080a18"/>
-  <rect x="460" y="120" width="20" height="10" fill="#080a18"/>
-  <rect x="0" y="130" width="40" height="10" fill="#080a18"/>
-  <rect x="50" y="130" width="30" height="10" fill="#080a18"/>
-  <rect x="90" y="130" width="50" height="10" fill="#080a18"/>
-  <rect x="330" y="130" width="30" height="10" fill="#080a18"/>
-  <rect x="370" y="130" width="40" height="10" fill="#080a18"/>
-  <rect x="420" y="130" width="30" height="10" fill="#080a18"/>
-  <rect x="460" y="130" width="20" height="10" fill="#080a18"/>
-  <rect x="0" y="140" width="40" height="10" fill="#080a18"/>
-  <rect x="50" y="140" width="30" height="10" fill="#080a18"/>
-  <rect x="90" y="140" width="50" height="10" fill="#080a18"/>
-  <rect x="330" y="140" width="30" height="10" fill="#080a18"/>
-  <rect x="370" y="140" width="40" height="10" fill="#080a18"/>
-  <rect x="420" y="140" width="30" height="10" fill="#080a18"/>
-  <rect x="460" y="140" width="20" height="10" fill="#080a18"/>
-  <!-- windows -->
-  <rect x="380" y="110" height="10" fill="#3a3520"/>
-  <rect x="60" y="120" height="10" fill="#3a3520"/>
-  <rect x="10" y="130" height="10" fill="#3a3520"/>
-  <rect x="340" y="130" height="10" fill="#3a3520"/>
-  <rect x="390" y="130" height="10" fill="#3a3520"/>
-  <rect x="470" y="130" height="10" fill="#3a3520"/>
-  <rect x="60" y="140" height="10" fill="#3a3520"/>
-  <rect x="430" y="140" height="10" fill="#3a3520"/>
-  <!-- ground details -->
-  <rect x="40" y="150" height="10" fill="#0c0e1c"/>
-  <rect x="80" y="150" height="10" fill="#0c0e1c"/>
-  <rect x="140" y="150" width="190" height="10" fill="#0c0e1c"/>
-  <rect x="360" y="150" height="10" fill="#0c0e1c"/>
-  <rect x="410" y="150" height="10" fill="#0c0e1c"/>
-  <rect x="450" y="150" height="10" fill="#0c0e1c"/>
+  <g fill="#f5f0cd">
+    <rect x="60"  y="24" width="6" height="6"/>
+    <rect x="180" y="46" width="6" height="6"/>
+    <rect x="340" y="20" width="6" height="6"/>
+    <rect x="500" y="36" width="6" height="6"/>
+    <rect x="600" y="18" width="6" height="6"/>
+  </g>
+  <g fill="#c7cdf2">
+    <rect x="110" y="60" width="4" height="4"/>
+    <rect x="260" y="34" width="4" height="4"/>
+    <rect x="380" y="58" width="4" height="4"/>
+    <rect x="450" y="16" width="4" height="4"/>
+    <rect x="560" y="52" width="4" height="4"/>
+    <rect x="30"  y="46" width="4" height="4"/>
+  </g>
+  <g fill="#3d4270">
+    <rect x="150" y="16" width="4" height="4"/>
+    <rect x="230" y="66" width="4" height="4"/>
+    <rect x="410" y="42" width="4" height="4"/>
+    <rect x="530" y="70" width="4" height="4"/>
+    <rect x="90"  y="34" width="4" height="4"/>
+  </g>
+
+  <!-- moon -->
+  <circle cx="650" cy="46" r="70" fill="url(#moonGlow)"/>
+  <g fill="#f2eecb">
+    <rect x="632" y="10" width="36" height="8"/>
+    <rect x="624" y="18" width="52" height="8"/>
+    <rect x="616" y="26" width="68" height="8"/>
+    <rect x="616" y="34" width="68" height="8"/>
+    <rect x="616" y="42" width="68" height="8"/>
+    <rect x="624" y="50" width="52" height="8"/>
+    <rect x="632" y="58" width="36" height="8"/>
+  </g>
+  <g fill="#dcd6a8">
+    <rect x="640" y="26" width="12" height="8"/>
+    <rect x="628" y="42" width="12" height="8"/>
+    <rect x="656" y="34" width="10" height="8"/>
+  </g>
+
+  <!-- ground -->
+  <rect x="0" y="182" width="800" height="18" fill="#04050c"/>
+
+  <!-- soft hill silhouette -->
+  <rect x="0"   y="176" width="800" height="6" fill="#0a0c24"/>
+  <rect x="120" y="170" width="220" height="6" fill="#0a0c24"/>
+  <rect x="480" y="172" width="260" height="6" fill="#0a0c24"/>
+
+  <!-- chamomile flower cluster -->
+  <g>
+    <circle cx="195" cy="128" r="46" fill="url(#flowerGlow)"/>
+
+    <!-- stems -->
+    <rect x="192" y="150" width="6" height="34" fill="#3f6a41"/>
+    <rect x="264" y="158" width="5" height="26" fill="#385f3c"/>
+    <rect x="128" y="158" width="5" height="26" fill="#385f3c"/>
+    <rect x="184" y="164" width="8" height="6" fill="#4a7a4c"/>
+    <rect x="198" y="170" width="8" height="6" fill="#4a7a4c"/>
+
+    <!-- large chamomile -->
+    <g fill="#f4f6ff">
+      <rect x="185" y="98"  width="20" height="10"/>
+      <rect x="185" y="128" width="20" height="10"/>
+      <rect x="170" y="113" width="10" height="20"/>
+      <rect x="210" y="113" width="10" height="20"/>
+      <rect x="176" y="103" width="10" height="10"/>
+      <rect x="204" y="103" width="10" height="10"/>
+      <rect x="176" y="123" width="10" height="10"/>
+      <rect x="204" y="123" width="10" height="10"/>
+    </g>
+    <rect x="182" y="112" width="16" height="16" fill="#f0c94f"/>
+    <rect x="182" y="112" width="7"  height="7"  fill="#f8dd82"/>
+
+    <!-- small chamomile (right) -->
+    <g fill="#e9ecfb">
+      <rect x="256" y="132" width="14" height="7"/>
+      <rect x="256" y="150" width="14" height="7"/>
+      <rect x="246" y="141" width="7" height="14"/>
+      <rect x="270" y="141" width="7" height="14"/>
+    </g>
+    <rect x="255" y="141" width="10" height="10" fill="#e8b93f"/>
+
+    <!-- small chamomile (left) -->
+    <g fill="#e9ecfb">
+      <rect x="118" y="132" width="14" height="7"/>
+      <rect x="118" y="150" width="14" height="7"/>
+      <rect x="108" y="141" width="7" height="14"/>
+      <rect x="132" y="141" width="7" height="14"/>
+    </g>
+    <rect x="117" y="141" width="10" height="10" fill="#e8b93f"/>
+  </g>
 </svg>
